@@ -3,8 +3,8 @@
 ## Introductie
 We beginnen met een kleine demo en toelichting van de command line. Daarna kan ieder in zijn eigen tempo aan de volgende tutorials werken. Let op: de tutorials hebben ook een mogelijkheid om in een online omgeving te oefenen, maar met een gratis account kun je maar 3 van de 40 lessen op 1 dag doen, dus voer de commando's in je eigen shell uit.
 
-[Tutorial 1: Linux Journey: The Shell](https://labex.io/lesson/the-shell)
-[Tutorial 2: Linux Journey: Text-Fu](https://labex.io/lesson/stdout-standard-out-redirect)
+* [Tutorial 1: Linux Journey: The Shell](https://labex.io/lesson/the-shell)
+* [Tutorial 2: Linux Journey: Text-Fu](https://labex.io/lesson/stdout-standard-out-redirect)
 
 Voor de shell kun je ook ingewikkeldere programma's schrijven in shell scripts. Net echt programmeren met variabele en for loops. In dit soort kleine scriptjes blinken AI tools uit, dat kunnen ze heel goed voor je genereren. Maar voor wie er zelf mee aan de gang gaat (of wil snappen wat AI allemaal bedenkt) is hier de [learn bash scripting in 10 minutes](https://dev.to/arindam_1729/learn-bash-scripting-in-10-minutes-1jec) tutorial.
 
